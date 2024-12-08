@@ -33,9 +33,9 @@ para ello usamos la siguiente url https://www.exchangerate-api.com/
 
 Para el desarrollo de este proyecto se implementara la siguiente forma de trabajo:
 
-1. Crear la clase moneda que sera la encargada de tener los atributos mas importante que vayamos a usar del API
+1. Crear la clase moneda que sera la encargada de tener los atributos mas importante que vayamos a usar del API.
 2. Crear una clase para consulta la API ExchangeRate es decir las tasas de cambio.
-3. Crear la clase Conversor, que se encargara de convertir una cantidad de modena base en la cantidad deseada
-4. Crear la clase menu que tendra la logica y el menu textual de la aplicacion
-5. Crea la clase principal que sera la que llamara y dara inicio a nuestra aplicacion
+3. Crear la clase Conversor, que se encargara de convertir una cantidad de modena base en la cantidad deseada.
+4. Crear la clase menu que tendra la logica y el menu textual de la aplicacion.
+5. Crear la clase principal que sera la encargada de llamar y dar inicio a nuestra aplicacion.
 
